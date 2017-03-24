@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="38.308632mm"
+   height="20.354763mm"
+   viewBox="0 0 38.308632 20.354763"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r"
+   sodipodi:docname="joker_5050_x.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.878125"
+     inkscape:cx="48.973625"
+     inkscape:cy="48.053736"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1053"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-66.268307,-120.79659)">
+    <ellipse
+       style="fill:none;fill-opacity:0.0482456;stroke:#ffffff;stroke-width:0.69999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4485"
+       cx="85.422623"
+       cy="130.97397"
+       rx="18.804316"
+       ry="9.8273811" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4489"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(39.309524,55.940476)"><flowRegion
+         id="flowRegion4491"><rect
+           id="rect4493"
+           width="86.428574"
+           height="48.92857"
+           x="121.78571"
+           y="266.44824" /></flowRegion><flowPara
+         id="flowPara4495" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="70.246872"
+       y="134.75371"
+       id="text4499"><tspan
+         sodipodi:role="line"
+         id="tspan4497"
+         x="70.246872"
+         y="134.75371"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">50:50</tspan></text>
+    <rect
+       style="fill:#d40000;fill-opacity:1;stroke:none;stroke-width:1.05561447;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect14"
+       width="52.828529"
+       height="2.0610719"
+       x="108.72263"
+       y="75.809143"
+       transform="rotate(27.54901)" />
+    <rect
+       style="fill:#d40000;fill-opacity:1;stroke:none;stroke-width:1.05561447;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect14-3"
+       width="52.828529"
+       height="2.0610719"
+       x="-40.717434"
+       y="153.76526"
+       transform="matrix(-0.88661554,0.46250717,0.46250717,0.88661554,0,0)" />
+  </g>
+</svg>

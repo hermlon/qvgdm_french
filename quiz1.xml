@@ -1,0 +1,25 @@
+<quiz name="TestQuiz">
+  <questions>
+    <question rank="1">
+      <name>Question One</name>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerRight>The right answer</answerRight>
+    </question>
+    <question rank="2">
+      <name>Question Two</name>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerRight>The right answer</answerRight>
+    </question>
+    <question rank="3">
+      <name>Question Three</name>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerWrong>A wrong answer</answerWrong>
+      <answerRight>The right answer</answerRight>
+    </question>
+  </questions>
+</quiz>
